@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there
+
+Mern stack developer.
 
 <!--
 **0eti/0eti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
