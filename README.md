@@ -1,9 +1,9 @@
 ### Welcome
 
-I am a web dev that primarily works w. the MERN stack.
+I am a web dev that primarily works w. the MERN stack.  
+Feel free to do whatever you want w. my code.
 
-- Currently working on: Making personal website w. microservices architecture.
-- Currently learning: 
+- Currently working on: Updating personal website w. microservices architecture.
 <!--
 **0eti/0eti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
