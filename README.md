@@ -1,9 +1,11 @@
-### Welcome
+### Welcome to my Github
 
 I am primarily a MERN stack web dev.  
 Feel free to do whatever you want w. my code.
 
 - Currently working on: Updating my personal website to use a microservices architecture.
+
+
 <!--
 **0eti/0eti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
