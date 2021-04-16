@@ -1,7 +1,9 @@
-### Hello there
+### Welcome
 
-Mern stack developer.
+I am a web dev that primarily works w. the MERN stack.
 
+- Currently working on: Making personal website w. microservices architecture.
+- Currently learning: 
 <!--
 **0eti/0eti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
