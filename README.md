@@ -3,8 +3,6 @@
 MERN stack web dev.  
 Feel free to do whatever you want w. my code.
 
-- Currently working on: using gRPC for microservices.
-
 
 <!--
 **0eti/0eti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
