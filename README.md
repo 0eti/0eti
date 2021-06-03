@@ -3,7 +3,8 @@
 MERN stack web dev.  
 Feel free to do whatever you want w. my code.
 
-Working on creating flexible image upload and processing services. 
+Working on creating flexible image upload and processing services
+Working on elasticsearch stuff
 
 <!--
 **0eti/0eti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
