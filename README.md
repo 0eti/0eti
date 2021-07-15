@@ -1,9 +1,7 @@
 ### Welcome to my Github
 
-MERN stack web dev.  
-Feel free to do whatever you want w. my code.
-
-Working on Mongodb Elasticsearch stuff.
+MERN stack dev  
+Do whatever you want w. my code
 
 <!--
 **0eti/0eti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
