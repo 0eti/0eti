@@ -1,7 +1,5 @@
 ### Welcome to my Github
 
-MERN stack dev  
-
 <!--
 **0eti/0eti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
